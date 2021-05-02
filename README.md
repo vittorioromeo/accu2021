@@ -8,5 +8,5 @@ Repository for my ACCU 2021 talks.
 
 * [Slides](https://github.com/SuperV1234/accu2021/blob/master/slides.pdf)
 
-* [~YouTube video~](TODO)
+* [YouTube video](https://www.youtube.com/watch?v=H8wzuvynV78)
 
